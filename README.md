@@ -12,4 +12,3 @@ Desenvolvida com HTML, CSS e JavaScript
  
 
 ___
-__[Larissa Kich](https://www.youtube.com/watch?v=t_GdX1iLYQE&ab_channel=LarissaKich)__ - Referência
