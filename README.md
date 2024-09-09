@@ -8,7 +8,5 @@ Desenvolvida com HTML, CSS e JavaScript
     - Temperatura Máxima
     - Temperatura Minima
     - Humidade
-    - Velocidade do Vento<br><br>
+    - Velocidade do Vento
  
-
-___
