@@ -19,9 +19,9 @@ O objetivo principal do projeto é demonstrar como utilizar **HTML**, **JavaScri
 
 ## 📷 Demonstração
 
-![preview](https://github.com/tiagomolero/html-api-tempo/assets/preview.gif)
+![preview](https://github.com/tiagomolero/html-api-tempo/src/img/consulta.png)
 
-> *Demonstração fictícia — substitua pelo seu GIF ou imagem real do projeto.*
+> *Demonstração de uma consulta*
 
 ---
 
